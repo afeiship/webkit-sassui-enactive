@@ -1,0 +1,7 @@
+/*webkit-sassui-enactive Start*/
+@mixin enactive($inBgColor:#f2f2f2) {
+  &:active {
+    background: $inBgColor;
+  }
+}
+/*webkit-sassui-enactive End*/

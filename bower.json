@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-enactive",
+  "description": "webkit sass ui module for active item.",
+  "main": [
+    "dist/enactive.css",
+    "dist/enactive.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "enactive"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

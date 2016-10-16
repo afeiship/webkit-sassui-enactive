@@ -1,0 +1,10 @@
+/*webkit-sassui-enactive Start*/
+/*webkit-sassui-enactive End*/
+.test-enactive {
+  padding: 10px;
+  background: #f00;
+}
+
+.test-enactive:active {
+  background: #f2f2f2;
+}

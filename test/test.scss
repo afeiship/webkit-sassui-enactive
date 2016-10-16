@@ -1,0 +1,6 @@
+@import "../dist/enactive.scss";
+.test-enactive{
+  padding:10px;
+  background: #f00;
+  @include enactive(#f2f2f2);
+}
